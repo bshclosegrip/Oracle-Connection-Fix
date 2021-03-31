@@ -1,4 +1,4 @@
-# OracleConnectionFix
+# OracleConnectionFix in DBeaver
 
 # 원인1 : oracle 12 와 oracle 18 Database 충돌
 삭제 후 사용할 버전 재설치
